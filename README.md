@@ -11,6 +11,10 @@ Have you hit the 10,000 song limit in your spotify library?
 Have you received the following message?   
 >"Epic collection, friend. Your Music is all filled up. To save more, you'll need to remove some songs."  
 
+![Spotify limit](https://user-images.githubusercontent.com/172766/61428861-f73c0000-a8f1-11e9-8a82-ab7b1224150e.png)
+
+
+
 This tool is for you!  
 It will remove the last/oldest X number of albums or songs from your library. 
 
