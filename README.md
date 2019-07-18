@@ -47,6 +47,10 @@ TBD
 
 ## About the tools used and implementation details
 
+### Credit
+
+Based off JMPerez's wonderful [spotify-dedup](https://github.com/JMPerez/spotify-dedup). 95% of the code base is theirs and if you see any poor code, it's probably mine. ;)
+
 ### Spotify Web API and Promises
 
 This app is a good example of how to traverse a user's library without incurring in rate limit. Have a look at the code and see how Promises and a Promise Queue are used to control the amount of requests sent to the Spotify Web API. If you are interested in throttling promises, check out [promise-throttle](https://github.com/JMPerez/promise-throttle).
