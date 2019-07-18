@@ -16,9 +16,9 @@ Have you received the following message?
 
 
 This tool is for you!  
-It will remove the last/oldest X number of albums or songs from your library. 
+It will remove the oldest X number of albums or songs from your library. 
 
-This project uses the [Spotify Web API](https://developer.spotify.com/web-api/) for managing your spotify library. Just log in and it will traverse your library, removing the last/oldest X number of songs or albums. 
+This project uses the [Spotify Web API](https://developer.spotify.com/web-api/) for managing your spotify library. Just log in and it will traverse your library, removing the oldest X number of songs or albums. 
 
 ## Try it
 
